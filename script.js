@@ -2,10 +2,10 @@
 
 JavaScript
 let contador = 0;
-contador = 1; // Permitido
+contador = 1; 
 
 const pi = 3.14159;
-// pi = 3.14; // Se tentar fazer isso, dará Erro
+
 //5
 JavaScript
 let nomeProduto = "SSD 500GB";
